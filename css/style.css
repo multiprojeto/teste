@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #4347ad;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-family: "Edu AU VIC WA NT Dots", cursive;
+  text-align: center;
+  font-size: 60px
+}
